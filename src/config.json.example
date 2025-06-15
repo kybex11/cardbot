@@ -1,0 +1,6 @@
+{
+    "token": "DISCORD_BOT_TOKEN",
+    "guildId": "GUILD_ID_WHERE_BOT_WILL_BE_USED",
+    "clientId": "BOT_CLIENT_ID",
+    "channelId": "TARGET_CHANNEL_ID"
+}

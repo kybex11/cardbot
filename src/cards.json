@@ -1,0 +1,212 @@
+{
+    "Бетмен Комару": {
+        "rare": "legendary",
+        "coins": "10000",
+        "image_path": "../assets/betmenkomaru.jpg"
+    },
+    "Комару в Техасе": {
+        "rare": "epic",
+        "coins": "5000",
+        "image_path": "../assets/komaruvtehase.jpg"
+    },
+    "Комару в Маршрутке": {
+        "rare": "common",
+        "coins": "1000",
+        "image_path": "../assets/komaruvmarshrutke.jpg"
+    },
+    "Огромная Комару": {
+        "rare": "rare",
+        "coins": "3000",
+        "image_path": "../assets/ogromnayakomaru.jpg"
+    },
+    "Комару на Арбузе": {
+        "rare": "uncommon",
+        "coins": "2000",
+        "image_path": "../assets/komarunaarbuze.jpg"
+    },
+    "Комару в Геншине": {
+        "rare": "epic",
+        "coins": "5000",
+        "image_path": "../assets/komaruvgenshine.jpg"
+    },
+    "Комару Сидящая на Коле": {
+        "rare": "common",
+        "coins": "1000",
+        "image_path": "../assets/komarusidyashayanakole.jpg"
+    },
+    "Сладкая Комару": {
+        "rare": "uncommon",
+        "coins": "2000",
+        "image_path": "../assets/sladkayakomaru.jpg"
+    },
+    "Комару в Подвале": {
+        "rare": "common",
+        "coins": "1000",
+        "image_path": "../assets/komaruvpodvale.jpg"
+    },
+    "Комару Спит на Диване": {
+        "rare": "common",
+        "coins": "1000",
+        "image_path": "../assets/komaruspitnadivane.jpg"
+    },
+    "Комару Возле Пирогов": {
+        "rare": "uncommon",
+        "coins": "2000",
+        "image_path": "../assets/komaruvozlepirogov.jpg"
+    },
+    "Комару в Домике": {
+        "rare": "common",
+        "coins": "1000",
+        "image_path": "../assets/komaruvdomike.jpg"
+    },
+    "Комару в Джунглях": {
+        "rare": "rare",
+        "coins": "3000",
+        "image_path": "../assets/komaruvdzhunglyah.jpg"
+    },
+    "Комару на Фоне Заката": {
+        "rare": "uncommon",
+        "coins": "2000",
+        "image_path": "../assets/komarunafonezakata.jpg"
+    },
+    "Комару Пьет Воду": {
+        "rare": "common",
+        "coins": "1000",
+        "image_path": "../assets/komarupietvodu.jpg"
+    },
+    "Туалетная Комару": {
+        "rare": "common",
+        "coins": "1000",
+        "image_path": "../assets/tualetnayakomaru.jpg"
+    },
+    "Ведьма Комару": {
+        "rare": "epic",
+        "coins": "5000",
+        "image_path": "../assets/vedmakomaru.jpg"
+    },
+    "Комару Возле Лавового Озера": {
+        "rare": "rare",
+        "coins": "3000",
+        "image_path": "../assets/komaruvozlelavovogoozera.jpg"
+    },
+    "Комару в Заброшке": {
+        "rare": "uncommon",
+        "coins": "2000",
+        "image_path": "../assets/komaruvzabroshke.jpg"
+    },
+    "Секретная Комару": {
+        "rare": "legendary",
+        "coins": "10000",
+        "image_path": "../assets/sekretnayakomaru.jpg"
+    },
+    "Комару со Пылесосом": {
+        "rare": "common",
+        "coins": "1000",
+        "image_path": "../assets/komaruspilesosom.jpg"
+    },
+    "Культурная Комару": {
+        "rare": "uncommon",
+        "coins": "2000",
+        "image_path": "../assets/kulturnayakomaru.jpg"
+    },
+    "Комару Кушает": {
+        "rare": "common",
+        "coins": "1000",
+        "image_path": "../assets/komarukushaet.jpg"
+    },
+    "Много Комару": {
+        "rare": "epic",
+        "coins": "5000",
+        "image_path": "../assets/mnogokomaru.jpg"
+    },
+    "Комару на Эйфелевой Башне": {
+        "rare": "rare",
+        "coins": "3000",
+        "image_path": "../assets/komarunaeyfelevoybashne.jpg"
+    },
+    "Комару в Деревне": {
+        "rare": "common",
+        "coins": "1000",
+        "image_path": "../assets/komaruvderevne.jpg"
+    },
+    "Злая Комару": {
+        "rare": "uncommon",
+        "coins": "2000",
+        "image_path": "../assets/zlayakomaru.jpg"
+    },
+    "Комару в Капюшоне": {
+        "rare": "common",
+        "coins": "1000",
+        "image_path": "../assets/komaruvkapushone.jpg"
+    },
+    "Назад в Будущее": {
+        "rare": "legendary",
+        "coins": "10000",
+        "image_path": "../assets/nazadvbudushee.jpg"
+    },
+    "Комару у Берега Реки": {
+        "rare": "uncommon",
+        "coins": "2000",
+        "image_path": "../assets/komaruuberegareki.jpg"
+    },
+    "Комару в Рач": {
+        "rare": "common",
+        "coins": "1000",
+        "image_path": "../assets/komaruvrach.jpg"
+    },
+    "Комару в Ампуле": {
+        "rare": "rare",
+        "coins": "3000",
+        "image_path": "../assets/komaruvampire.jpg"
+    },
+    "Комару Отдыхает на Берегу Моря": {
+        "rare": "uncommon",
+        "coins": "2000",
+        "image_path": "../assets/komaruotdihaetnaberegumore.jpg"
+    },
+    "Наряженная Комару": {
+        "rare": "rare",
+        "coins": "3000",
+        "image_path": "../assets/naryazhenajakomaru.jpg"
+    },
+    "Комару на Море": {
+        "rare": "common",
+        "coins": "1000",
+        "image_path": "../assets/komarunamore.jpg"
+    },
+    "Милая Комару": {
+        "rare": "uncommon",
+        "coins": "2000",
+        "image_path": "../assets/millayakomaru.jpg"
+    },
+    "Комару Гуляет": {
+        "rare": "common",
+        "coins": "1000",
+        "image_path": "../assets/komarugulyaet.jpg"
+    },
+    "Комару Просто Отдыхает": {
+        "rare": "common",
+        "coins": "1000",
+        "image_path": "../assets/komaruprostootdihaet.jpg"
+    },
+    "Комару Ковбой": {
+        "rare": "epic",
+        "coins": "5000",
+        "image_path": "../assets/komarucowboy.jpg"
+    },
+    "Леонардо Комару": {
+        "rare": "legendary",
+        "coins": "10000",
+        "image_path": "../assets/leonardokomaru.jpg"
+    },
+    "Комару в своем бассейне": {
+        "rare": "rare",
+        "coins": "3000",
+        "image_path": "../assets/komaruvsvoembaseine.jpg"
+    },
+    "Комару на летучем доме": {
+        "rare": "rare",
+        "coins": "3000",
+        "image_path": "../assets/komarunaletuchemdome.jpg"
+    }
+}
